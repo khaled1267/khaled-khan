@@ -1,0 +1,12 @@
+@import "tailwindcss"
+
+
+.work-sans-font {
+  font-family: "Work Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight:700 ;
+  font-style: normal;
+}
+.text{
+  margin: 10px;
+}
